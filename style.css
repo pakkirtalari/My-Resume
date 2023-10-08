@@ -14,3 +14,24 @@ h1{
 h2{
     color: #1B9C85;
 }
+.summary{
+    border: 1px solid #F6F1F1;
+    border-radius: 2px;
+    box-shadow: #F6F1F1;
+}
+*{
+    font-family: "PT Serif";
+}
+p, li{
+    font-size: 18px;
+}
+h3, p{
+    font-family: "Frank Ruhl Libre";
+    font-size: 18px;
+}
+h3{
+    color: #245953;
+}
+a:hover{
+    color: #B0DAFF;
+}
