@@ -1,0 +1,16 @@
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.photo{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #001C30;
+}
+h2{
+    color: #1B9C85;
+}
